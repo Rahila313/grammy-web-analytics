@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project analyzes website traffic and user engagement data for Grammy.com.  
-The goal is to evaluate website performance, calculate business KPIs, and provide actionable insights using Excel-based analysis.
+The goal is to evaluate website performance, calculate business KPIs, and provide actionable insights using Excel based analysis.
 
 ---
 
