@@ -19,3 +19,18 @@ The goal is to evaluate website performance, calculate business KPIs, and provid
 - Web Analytics
 - KPI Analysis
 - A/B Testing
+
+## Analysis Screenshots
+
+### Traffic Trends
+![Traffic Trends](analysis/traffic_trends.png)
+
+### Daily Visitors
+![Daily Visitors](analysis/daily_visitors.png)
+
+### KPI Summary
+![KPI Table](analysis/kpi_table.png)
+
+### A/B Test Results
+![A/B Test](analysis/ab_test.png)
+
